@@ -8,11 +8,11 @@ This paper introduces an efficient variant of Competitive Differential Evolution
 @article{Zhong:25,  
 title = {Parameter adaptive competitive differential evolution with local search},  
 journal = {Applied Intelligence},  
-pages={1-61},
-volume={56},
-year={2026},
-publisher={Springer},
-doi = {https://doi.org/10.1007/s10489-026-07141-0 },
+pages={1-61},  
+volume={56},  
+year={2026},  
+publisher={Springer},  
+doi = {https://doi.org/10.1007/s10489-026-07141-0 },  
 }
 
 ## Datasets and Libraries
